@@ -27,3 +27,12 @@
 </div>
 
 ---
+
+
+### 📖 Pets projects:
+<div>
+   <h1>Django</h1>
+   <ul>
+      <li><a href="https://github.com/yaspichihin/bookmark_it">Bookmark it</a></li>
+   </ul>
+</div>
