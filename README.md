@@ -16,22 +16,9 @@
 
 ---
 
-### :fire: My Stats:
-<div>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaspichihin&show_icons=true&layout=compact&langs_count=8&hide_border=true&theme=flag-india" alt="stats" />
-   </a>
-   <a href="https://git.io/streak-stats">
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaspichihin&hide_border=true" alt="stats" />
-   </a>
-</div>
-
----
-
-
 ### 📖 Pets projects:
 <div>
-   <h1>Django</h1>
+   <h2>Django</h1>
    <ul>
       <li><a href="https://github.com/yaspichihin/bookmark_it">Bookmark it</a></li>
    </ul>
