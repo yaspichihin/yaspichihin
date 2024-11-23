@@ -16,10 +16,11 @@
 
 ---
 
-### 📖 Pets projects:
+<h1>📖 Pets projects:</h1>
 <div>
    <h2>Django</h1>
    <ul>
-      <li><a href="https://github.com/yaspichihin/bookmark_it">Bookmark it</a></li>
+      <li><a href="https://github.com/yaspichihin/bookmark_it">Bookmark it. Сохранение картинок из интернета. Учет лайков и просмотров.</a></li>
+      <li><a href="https://github.com/yaspichihin/django_drf_userprofiles">DRF и переопределение модели пользователя</a></li>
    </ul>
 </div>
